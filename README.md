@@ -2,7 +2,7 @@
 ### Data Analyst | Data Quality Specialist | Former Technical Editor 
 I am a certified Data Analyst with a unique hybrid background: 
 **6 years of professional experience as a Technical Editor** combined with advanced technical training in data analytics. Because of this, I specialize not just in writing code, but in ensuring data integrity, meticulous cleaning, and crystal-clear stakeholder documentation for remote teams. 
----## 🚀 Featured Data Portfolios
+## 🚀 Featured Data Portfolios
 ### 1. Bank Transaction Risk Anomaly Analysis (Python, SQL)
 
 - **The Project:** Engineered an automated compliance logic pipeline to isolate fraudulent sequential transactions and velocity anomalies.
@@ -21,7 +21,7 @@ I am a certified Data Analyst with a unique hybrid background:
 - **Core Skills:** Data modules, custom metrics.
 - **📂 https://github.com/Umarani26/Technology-Usage-Dashboard-Cognos.git**
   
----## 🛠 Technical Toolkit
+## 🛠 Technical Toolkit
 **Languages & Querying:** SQL, Python 
 **Data Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
 **Business Intelligence:** IBM Cognos, Excel (Advanced Tables & Analytics) 
