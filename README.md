@@ -26,7 +26,7 @@ I am a certified Data Analyst with a unique hybrid background: 5 years of profes
 Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Business Intelligence:** IBM Cognos, Excel 
 - **Core Strengths:** Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
---- ## 📫 Let's Connect!
+## 📫 Let's Connect!
 * 	📧 **Email:** umarani.tau09@gmail.com
 * 	📍 **Availability:** Immediately available for 100% Remote Internships, Trainee Roles, or Short-Term Contract Engagements. 
 
