@@ -1,7 +1,6 @@
 # Hi there, I'm Umarani 👋
 ### Data Analyst | Data Quality Specialist | Former Technical Editor 
-I am a certified Data Analyst with a unique hybrid background: 
-**6 years of professional experience as a Technical Editor** combined with advanced technical training in data analytics. Because of this, I specialize not just in writing code, but in ensuring data integrity, meticulous cleaning, and crystal-clear stakeholder documentation for remote teams. 
+I am a certified Data Analyst with a unique hybrid background: 5 years of professional experience as a Technical Editor combined with advanced technical training in data analytics. Because of this, I specialize not just in writing code, but in ensuring data integrity, meticulous cleaning, and crystal-clear stakeholder documentation for remote teams. 
 ## 🚀 Featured Data Portfolios
 ### 1. Bank Transaction Risk Anomaly Analysis (Python, SQL)
 
@@ -27,7 +26,7 @@ I am a certified Data Analyst with a unique hybrid background:
 Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Business Intelligence:** IBM Cognos, Excel 
 - **Core Strengths:** Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
----## 📫 Let's Connect!
+--- ## 📫 Let's Connect!
 * 	📧 **Email:** umarani.tau09@gmail.com
 * 	📍 **Availability:** Immediately available for 100% Remote Internships, Trainee Roles, or Short-Term Contract Engagements. 
 
