@@ -23,9 +23,12 @@ I am a certified Data Analyst with a unique hybrid background:
   
 ## 🛠 Technical Toolkit
 **Languages & Querying:** SQL, Python 
-**Data Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
-**Business Intelligence:** IBM Cognos, Excel (Advanced Tables & Analytics) 
-**Core Strengths:** Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
+**Data Libraries:** 
+Pandas, NumPy, Matplotlib, Seaborn, Plotly
+**Business Intelligence:** 
+IBM Cognos, Excel 
+**Core Strengths:** 
+Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
 ---## 📫 Let's Connect!
 * 	📧 **Email:** umarani.tau09@gmail.com
 * 	📍 **Availability:** Immediately available for 100% Remote Internships, Trainee Roles, or Short-Term Contract Engagements. 
