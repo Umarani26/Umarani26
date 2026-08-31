@@ -22,13 +22,11 @@ I am a certified Data Analyst with a unique hybrid background:
 - **📂 https://github.com/Umarani26/Technology-Usage-Dashboard-Cognos.git**
   
 ## 🛠 Technical Toolkit
-**Languages & Querying:** SQL, Python 
-**Data Libraries:** 
+- **Languages & Querying:** SQL, Python 
+- **Data Libraries:** 
 Pandas, NumPy, Matplotlib, Seaborn, Plotly
-**Business Intelligence:** 
-IBM Cognos, Excel 
-**Core Strengths:** 
-Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
+- **Business Intelligence:** IBM Cognos, Excel 
+- **Core Strengths:** Meticulous Data Cleansing, Technical Documentation, Executive Reporting 
 ---## 📫 Let's Connect!
 * 	📧 **Email:** umarani.tau09@gmail.com
 * 	📍 **Availability:** Immediately available for 100% Remote Internships, Trainee Roles, or Short-Term Contract Engagements. 
